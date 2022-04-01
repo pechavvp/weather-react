@@ -1,0 +1,10 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.App {
+    width: 600px;
+    height: 435px;
+    border: 1px solid black;
+    margin: 50px auto;
+}

@@ -1,0 +1,22 @@
+.weather_block_details {
+    height: 345px;
+    font-size: 24px;
+}
+
+.weather_block_details_wrap {
+    padding: 33px 0 0 15px;
+}
+
+.weather_block_details_title_text {
+    margin: 0;
+}
+
+.weather_block_details_list_items {
+    list-style: none;
+    padding: 0;
+    margin: 42px 0 0 0;
+}
+
+.weather_block_details_list_item {
+    margin-bottom: 14px;
+}

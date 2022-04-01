@@ -1,0 +1,45 @@
+.locations_block {
+    width: 300px;
+    border-left: 1px solid black;
+}
+
+.locations_block_title {
+    height: 68px;
+    border-bottom: 1px solid black;
+    font-size: 24px;
+}
+
+.locations_block_title_text {
+    padding: 33px 0px 7px 18px;
+    margin: 0px;
+}
+
+.locations_block_list_items {
+    padding: 0px;
+    margin: 35px 0px 0px 18px;
+}
+
+.locations_block_list_item {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 24px;
+    margin-bottom: 14px;
+    width: 263px;
+}
+
+.locations_block_list_item_cityname {
+    margin: 0;
+    cursor: pointer;
+}
+
+.delete_icon {
+    margin: 0;
+    background: transparent url(../../img/close-icon.png) no-repeat;
+    background-size: 100%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    opacity: 0.5;
+    border: none;
+}
